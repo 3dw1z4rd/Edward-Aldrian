@@ -1,0 +1,16 @@
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\bin\Debug\ElokuvaPankki.exe.config
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\bin\Debug\ElokuvaPankki.exe
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\bin\Debug\ElokuvaPankki.pdb
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\ElokuvaPankki.csproj.AssemblyReference.cache
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\ElokuvaPankki.csproj.SuggestedBindingRedirects.cache
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\MainWindow.g.cs
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\App.g.cs
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\ElokuvaPankki_MarkupCompile.cache
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\ElokuvaPankki_MarkupCompile.lref
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\MainWindow.baml
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\ElokuvaPankki.g.resources
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\ElokuvaPankki.Properties.Resources.resources
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\ElokuvaPankki.csproj.GenerateResource.cache
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\ElokuvaPankki.csproj.CoreCompileInputs.cache
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\ElokuvaPankki.exe
+C:\Users\aldrin.zogijani\Source\Repos\3dw1z4rd\Edward-Aldrian\ElokuvaPankki\obj\Debug\ElokuvaPankki.pdb
